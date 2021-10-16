@@ -1,1 +1,1 @@
-# Project_new
+# Learning git commands for seminar
